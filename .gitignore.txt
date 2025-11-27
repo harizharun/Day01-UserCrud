@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+
+# Logs
+*.log
+
+# Publish & build
+*.dll
+*.exe
+*.pdb
+
+# DB files
+*.db
+*.db-shm
+*.db-wal
