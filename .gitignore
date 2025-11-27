@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.app
+*.apk
+*.xaml
+
+# Rider
+.idea/
+
+# ASP.NET Core
+appsettings.Development.json
+launchSettings.json
+wwwroot/lib/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Rider/JetBrains
+*.iml
+
+# Others
+*.vsix
+*.log
